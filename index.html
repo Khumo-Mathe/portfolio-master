@@ -412,5 +412,13 @@
 
       gtag("config", "UA-167312585-1");
     </script>
+    <script>
+      document.querySelector('.back-to-top-btn').addEventListener('click', function (e) {
+          e.preventDefault(); // Prevent default jump behavior
+          document.querySelector(this.getAttribute('href')).scrollIntoView({
+              behavior: 'smooth' // Smooth scroll
+          });
+      });
+  </script>
   </body>
 </html>
