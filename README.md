@@ -24,9 +24,9 @@ Loads fast ⚡.
 
 ## Authors
 
-👤 **Brham Dev Mahato**
+👤 **Khumo Mathe**
 
--   Github: [@dev1980](https://github.com/Khumo-Mathe)
+-   Github: [Github](https://github.com/Khumo-Mathe)
 -   Linkedin: [linkedin](www.linkedin.com/in/khumo-mathe-44327a258)
 
 ## 📝 License
