@@ -20,15 +20,14 @@ Loads fast ⚡.
 
 ## Live Demo
 
-[Live Demo Link](https://brhamresume.netlify.app/)
+[Live Demo Link](https://khumo-mathe.github.io/portfolio-master/)
 
 ## Authors
 
 👤 **Brham Dev Mahato**
 
--   Github: [@dev1980](https://github.com/dev1980)
--   Twitter: [@MahatoBrham](https://twitter.com/MahatoBrham)
--   Linkedin: [linkedin](https://www.linkedin.com/in/dev1980/)
+-   Github: [@dev1980](https://github.com/Khumo-Mathe)
+-   Linkedin: [linkedin](www.linkedin.com/in/khumo-mathe-44327a258)
 
 ## 📝 License
 
